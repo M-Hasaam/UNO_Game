@@ -12,11 +12,11 @@ This is a simple console-based UNO game implemented in C++. The game is designed
 ## 🛠 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/UNO-Game.git
+   git clone https://github.com/M-Hasaam/UNO_Game.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd UNO-Game
+   cd UNO_Game
    ```
 3. Compile the source code using a C++ compiler:
    ```sh
