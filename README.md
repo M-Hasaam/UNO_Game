@@ -1,6 +1,8 @@
 # 🎮 UNO Game (C++ Console) 🃏
 
-<img src="preview/UNO_preveiw.png" alt="UNO Game Preview" width="400"/>
+<p align="center">
+  <img src="preview/UNO_preveiw.png" alt="UNO Game Preview" width="400"/>
+</p>
 
 ## 📌 Description
 This is a simple console-based UNO game implemented in C++. The game is designed to run in the terminal and follows basic UNO rules. It is a single-file implementation with all the logic contained within `main.cpp`, and the results of the game are stored in `result.txt`.
