@@ -48,9 +48,6 @@ This is a simple console-based UNO game implemented in C++. The game is designed
 - 🎨 Add graphical interface support.
 - 🔥 Improve game logic with more UNO rules.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 Developed by [Muhammad Hasaam].
 
